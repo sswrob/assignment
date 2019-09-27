@@ -1,0 +1,40 @@
+span {
+color: black;
+background: rgb(172, 172, 172);;
+padding: 5px;
+margin-left: 10px;
+}
+h1 {
+text-align: center;
+background: rgb(172, 172, 172);
+padding: 5px;
+}
+li {
+font-size: 22px;
+}
+table {
+font-size: 25px;
+padding: 5px;
+margin-left: 25px;
+}
+h2 {
+
+background: rgb(172, 172, 172);
+padding: 5px;
+}
+p {
+font-size: 20px;
+margin-left: 10px;
+}
+img {
+width: 200px;
+height: 200px;
+border: 2px solid rgb(165, 165, 165);
+border-radius: 150px;
+}
+h3 {
+margin-left: 10px;
+}
+h4 {
+margin-left: 10px;
+}
